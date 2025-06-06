@@ -25,7 +25,7 @@ Una aplicación de consola desarrollada en C# para calcular y dividir subredes d
 
 ## 🚀 Ejecución
 
-Clona el repositorio y compila el proyecto con los siguientes comandos o descarga el .exe <a href="#">archivo .exe</a>:
+Clona el repositorio y compila el proyecto con los siguientes comandos o descarga el .exe <a href="https://drive.google.com/file/d/1xSG16nwIZw5-gY1QzCygFqfffvuiTnCx/view?usp=sharing">archivo .exe</a>:
 
 ```bash
 git clone https://github.com/Rguezpjm/Subidmiter.git
