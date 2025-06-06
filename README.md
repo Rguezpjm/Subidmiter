@@ -8,7 +8,7 @@ Una aplicación de consola desarrollada en C# para calcular y dividir subredes d
 
 ## 📌 Descripción
 <p align="center"><img src="portada.png"/></p>
-**Subidmiter** es una herramienta ligera para administradores de red, estudiantes o cualquier persona que necesite dividir una red en subredes más pequeñas. Esta aplicación permite introducir una dirección IP con su máscara y devuelve una lista de subredes posibles según los parámetros dados.
+**Subidmiter** es una herramienta ligera para administradores de red, estudiantes o cualquier persona que necesite dividir una red en subredes más pequeñas. Esta aplicación permite introducir una dirección IP  y devuelve una lista de subredes posibles según los parámetros dados.
 
 ## ⚙️ Características
 
